@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="texto">Texto</string>
+    <string name="Texto2">TextView</string>
+    <string-array name="phone">
+        <item>Texto normal</item>
+        <item>E-mail</item>
+        <item>Telefono</item>
+        <item>Numero</item>
+    </string-array>
+</resources>
